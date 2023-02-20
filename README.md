@@ -1,4 +1,10 @@
 
+## Step to run bible GPT:
+```
+$ python sample.py --out_dir=out-bible-char --num_samples=2 --max_new_tokens=200 --temperature=0.25 --device=cpu --start="God created the universe"
+```
+
+
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
